@@ -1,1 +1,1 @@
-include ':app', ':extras:ListViewAnimationLib'
+include ':app'
